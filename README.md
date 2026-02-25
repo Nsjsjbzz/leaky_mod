@@ -1,4 +1,4 @@
-# leaky :key:
+# leaky_mod :key:
 [![Python 3.5|3.6](https://img.shields.io/badge/python-3.x-green.svg)](https://www.python.org/) 
 [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://raw.githubusercontent.com/almandin/fuxploider/master/LICENSE.md)
 
@@ -10,7 +10,7 @@ This project is intended for **educational and professional use only**. It is de
 
 ## :star2: Credits
 This project is built upon the foundational work of [ACCEIS' LeakScraper](https://github.com/Acceis/leakScraper).
-
+The FORK's ORIGINAL CREDITS BELONG TO [leakly](https://github.com/saladandonionrings/leaky)
 ## Installation
 
 You can install Leaky and its prerequisites using the following commands:
@@ -67,6 +67,13 @@ Leaky provides the following capabilities:
 * **Inventory** : Inventory of your breach files.
 * **Upload** : Add your own breach files.
 * **Links** : Useful links for data leaks.
+
+### Additions 
+Leaky_Mod changes...
+
+* **Login not mandatory for using searcher (uploader/inventory requires login in specific path u can change)**
+* **Removed uselles buttons**
+* **Added censor(password) for special case usage**
 
 #### Search
 ##### Credentials/ULP
