@@ -10,6 +10,7 @@ This project is intended for **educational and professional use only**. It is de
 
 ## :star2: Credits
 This project is built upon the foundational work of [ACCEIS' LeakScraper](https://github.com/Acceis/leakScraper).
+
 The FORK's ORIGINAL CREDITS BELONG TO [leakly](https://github.com/saladandonionrings/leaky)
 ## Installation
 
