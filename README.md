@@ -75,6 +75,7 @@ Leaky_Mod changes...
 * **Login not mandatory for using searcher (uploader/inventory requires login in specific path u can change)**
 * **Removed uselles buttons**
 * **Added censor(password) for special case usage**
+* **Cleaned added clean upload progress bar**
 
 #### Search
 ##### Credentials/ULP
